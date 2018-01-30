@@ -27,6 +27,7 @@ button {
 	font-weight: 700;
 	letter-spacing: 1px;
 	font-size: inherit;
+	cursor: pointer;
 	transition: all .5s;
 }
 
